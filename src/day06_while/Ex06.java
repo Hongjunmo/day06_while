@@ -19,8 +19,8 @@ public class Ex06 {
 		System.out.println("n2.equal(n1) : " +n2.equals(n1));
 	
 	
-	
-	
+	String str = null;
+	System.out.println(n1.equals(str));
 	
 	}
 }
